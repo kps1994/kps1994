@@ -5,4 +5,4 @@
 👯 I’m looking to collaborate on Automation Testing & developing new tools  
 🤔 I’m looking for help with new technologies  
 💬 Ask me about Automation Testing
-how to reach me **balasiva@gmail.com**
+📫 To reach me **balasiva@gmail.com**
