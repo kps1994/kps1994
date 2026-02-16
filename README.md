@@ -1,7 +1,7 @@
 💫 **About Balasiva:**
 ------------------------
 🔭 I’m currently working on RxDataScience  
-🌱 I’m currently learning Typescript, Javascript with Playwright
+🌱 I’m currently learning Typescript, Javascript with Playwright  
 🌱 And also i'm intrested in npm packages and chrome extension manifest v3  
 👯 I’m looking to collaborate on Automation Testing & developing new tools  
 🤔 I’m looking for help with new technologies  
